@@ -1,5 +1,5 @@
 [versions]
-streamChatSDK = "5.11.1"
+streamChatSDK = "5.14.0"
 sealedx = "1.0.0"
 landscapist = "1.6.1"
 accompanist = "0.25.0"
